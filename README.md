@@ -1,5 +1,3 @@
-# Contributte Utils
-
 ![](https://heatbadger.now.sh/github/readme/contributte/utils/)
 
 <p align=center>
